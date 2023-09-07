@@ -3,25 +3,22 @@
 ![Mundo Globo](gif.gif)
 
 ## Descripción
-Mundo Globo es un sitio web que te lleva a explorar el mundo a través de emocionantes relatos de viaje, consejos prácticos y hermosas imágenes. Nuestra pasión es fomentar la exploración y la aventura, y lo hacemos a través de tres pilares fundamentales: Inspirar, Informar y Conectar.
+Mundo Globo es un sitio web que te transporta a una exploración visual del mundo a través de relatos de viaje, imágenes cautivadoras y consejos prácticos. 
+Este proyecto está diseñado para demostrar mis habilidades en el desarrollo front-end y la creación de experiencias visuales atractivas.
 
-## Contenido
-- [Acerca de nosotros](#about)
-- [Nuestros servicios](#services)
-- [Apoyan](#counter)
-- [Galería](#gallery-)
-- [Redes sociales](#reviews)
-- [Contacto](#contact)
+## Diseño y Estilo
+El diseño de Mundo Globo se centra en la simplicidad y la elegancia. La paleta de colores suaves y la tipografía legible hacen que la experiencia del usuario sea agradable. 
+El uso de animaciones sencillas, como el desplazamiento suave y las transiciones fluidas, agrega un toque de sofisticación al sitio.
 
-## Funcionalidades
+## Funcionalidades Destacadas
 - Asesoramiento de Viaje Personalizado
 - Guías de Viaje Detalladas
 - Experiencias de Viaje en Grupo
 - Recursos de Viaje en Línea
 
-## Capturas de Pantalla
-![Captura de Pantalla 1](images/screenshot1.png)
-![Captura de Pantalla 2](images/screenshot2.png)
+## Vista Previa
+![Captura de Pantalla 1](Captura1.png)
+![Captura de Pantalla 2](Captura2.png)
 
 ## Requisitos
 - Navegador web moderno
@@ -35,24 +32,18 @@ Mundo Globo es un sitio web que te lleva a explorar el mundo a través de emocio
 - jQuery
 - Fancybox
 - AOS (Animate On Scroll)
-- GitHub
 
-## Instalación
+## Cómo Probar
 1. Clona este repositorio en tu máquina local.
-2. Abre el archivo `index.html` en tu navegador web.
+2. Abre el archivo `index.html` en tu navegador web para explorar el sitio.
 
 ## Contribución
-Si deseas contribuir a este proyecto, ¡estamos abiertos a colaboraciones! Siéntete libre de hacer un fork del repositorio, realizar tus cambios y enviar un pull request.
-
-## Contacto
-Si tienes alguna pregunta o comentario, no dudes en ponerte en contacto con nosotros:
-
-- Correo Electrónico: pruebas@mundoglobo.com
-- Instagram: [@Mundo_Globo](https://www.instagram.com/Mundo_Globo)
-- WhatsApp: 1 098 765 432
-- Facebook: [Mundo Global](https://facebook.com/)
-- Telegram: 1 098 765 432
-- YouTube: [Mundo Globo](https://www.youtube.com/)
+Si deseas colaborar en este proyecto o tienes sugerencias para mejorarlo, ¡no dudes en contactarme!
 
 ## Licencia
 Este proyecto está bajo la [Licencia MIT](LICENSE).
+
+---
+
+© Dev.Eugenius - [Mi Perfil en GitHub](https://github.com/deveugenius)
+
