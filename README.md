@@ -41,7 +41,7 @@ El uso de animaciones sencillas, como el desplazamiento suave y las transiciones
 Si deseas colaborar en este proyecto o tienes sugerencias para mejorarlo, ¡no dudes en contactarme!
 
 ## Licencia
-Este proyecto está bajo la [Licencia MIT](LICENSE).
+Este proyecto está bajo la [Licencia MIT](LICENSE.md).
 
 ---
 
