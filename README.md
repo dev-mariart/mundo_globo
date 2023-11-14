@@ -17,8 +17,8 @@ Using simple animations such as smooth scrolling and fluid transitions adds a to
 - Online Travel Resources
 
 ## Preview
-![Screenshot 1](Screenshot1.png)
-![Screenshot 2](Screenshot2.png)
+![Screenshot 1](Captura1.png)
+![Screenshot 2](Captura2.png)
 
 ## Requirements
 - Modern web browser
