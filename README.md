@@ -1,49 +1,46 @@
-# Mundo Globo
+# Globe World
 
-![Mundo Globo](gif.gif)
+![Globe World](gif.gif)
 
-## Descripción
-Mundo Globo es un sitio web que te transporta a una exploración visual del mundo a través de relatos de viaje, imágenes cautivadoras y consejos prácticos. 
-Este proyecto está diseñado para demostrar mis habilidades en el desarrollo front-end y la creación de experiencias visuales atractivas.
+## Description
+Mundo Globo is a website that takes you on a visual exploration of the world through travel stories, captivating images and practical advice.
+This project is designed to demonstrate my skills in front-end development and creating engaging visual experiences.
 
-## Diseño y Estilo
-El diseño de Mundo Globo se centra en la simplicidad y la elegancia. La paleta de colores suaves y la tipografía legible hacen que la experiencia del usuario sea agradable. 
-El uso de animaciones sencillas, como el desplazamiento suave y las transiciones fluidas, agrega un toque de sofisticación al sitio.
+## Design and style
+Mundo Globo's design focuses on simplicity and elegance. The soft color palette and readable typography make for a pleasant user experience.
+Using simple animations such as smooth scrolling and fluid transitions adds a touch of sophistication to the site.
 
-## Funcionalidades Destacadas
-- Asesoramiento de Viaje Personalizado
-- Guías de Viaje Detalladas
-- Experiencias de Viaje en Grupo
-- Recursos de Viaje en Línea
+## Featured Features
+- Personalized Travel Advice
+- Detailed Travel Guides
+- Group Travel Experiences
+- Online Travel Resources
 
-## Vista Previa
-![Captura de Pantalla 1](Captura1.png)
-![Captura de Pantalla 2](Captura2.png)
+## Preview
+![Screenshot 1](Screenshot1.png)
+![Screenshot 2](Screenshot2.png)
 
-## Requisitos
-- Navegador web moderno
-- Conexión a Internet
+## Requirements
+- Modern web browser
+- Internet connection
 
-## Tecnologías Utilizadas
+## Used technology
 - HTML5
-- CSS3
+-CSS3
 - Bootstrap
 - JavaScript
-- jQuery
-- Fancybox
+-jQuery
+-Fancybox
 - AOS (Animate On Scroll)
 
-## Cómo Probar
-1. Clona este repositorio en tu máquina local.
-2. Abre el archivo `index.html` en tu navegador web para explorar el sitio.
+## How to Test
+1. Clone this repository to your local machine.
+2. Open the `index.html` file in your web browser to explore the site.
 
-## Contribución
-Si deseas colaborar en este proyecto o tienes sugerencias para mejorarlo, ¡no dudes en contactarme!
+## Contribution
+If you want to collaborate on this project or have suggestions to improve it, don't hesitate to contact me!
 
-## Licencia
-Este proyecto está bajo la [Licencia MIT](LICENSE.md).
+## License
+This project is under the [MIT License](LICENSE.md).
 
----
-
-© Dev.Eugenius - [Mi Perfil en GitHub](https://github.com/deveugenius)
 
